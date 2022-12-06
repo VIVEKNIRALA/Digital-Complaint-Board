@@ -1,6 +1,0 @@
->> ADMIN LOGIN 
-(For Admin panel go to URL- http://localhost/Online_notice_board/admin/)
-
-Username: admin@gmail.com	
-Password: admin
-
